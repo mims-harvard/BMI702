@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Just the Class
-tagline: A Jekyll template for course websites
-description: A modern, highly customizable, responsive Jekyll template for course websites
+title: BMI 702
+tagline: Introduction to Artificial Intelligence
+description: Introduction to Artificial Intelligence
 author: Marinka Zitnik
 baseurl: '/BMI702' # the subpath of your site, e.g. /blog
 url: 'https://zitniklab.hms.harvard.edu' # the base hostname & protocol for your site, e.g. http://example.com
@@ -23,15 +23,17 @@ exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
-color_scheme: light
+color_scheme: harvardred
 search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
-    - 'https://kevinl.info'
-  Just the Class on GitHub:
-    - 'https://github.com/kevinlin1/just-the-class'
+  Canvas:
+    - 'https://canvas.harvard.edu/courses/117878'
+  Harvard DBMI:
+    - 'https://dbmi.hms.harvard.edu'
+  Zitnik Lab:
+    - 'https://zitniklab.hms.harvard.edu'
 footer_content:
 
 # Collections for website data

@@ -1,0 +1,46 @@
+---
+layout: page
+title: Home
+nav_order: 1
+description: A week-to-week description of the content covered in the course.
+---
+
+# [BMI 702](https://dbmi.hms.harvard.edu/education/courses/bmi-702) | Introduction to Artificial Intelligence
+
+{: .mb-2 }
+Harvard - Foundations in Biomedical Informatics II, Spring 2023
+{: .mb-0 .fs-6 .text-grey-dk-000 }
+
+<div>
+	<p>
+		Artificial intelligence is poised to enable breakthroughs in science and reshape medicine. This introductory course provides a survey of artificial intelligence for biomedical informatics, covering methods for key data modalities: clinical data, networks, language, and images. It introduces machine learning problems from a practical perspective, focusing on tasks that drive the adoption of machine learning in biology and medicine. 
+	</p>
+	<p>
+		It outlines foundational algorithms and emphasizes the subtleties of working with biomedical data and ways to evaluate and transition machine learning methods into biomedical and clinical implementation. An important consideration in this course is the broader impact of artificial intelligence, particularly topics of bias and fairness, interpretability, and ethical and legal considerations when dealing with artificial intelligence.
+	</p>
+</div>
+
+<div>
+
+{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
+<div class="role">
+  {% for staffer in instructors %}
+  {{ staffer }}
+  {% endfor %}
+
+</div>
+
+<ul>
+<!-- <li><b>THIS PAGE IS UNDER CONSTRUCTION. Please don’t interpret anything on this website as truth until this warning is removed. </b></li>
+<li>Please read our <a href="http://www.ds100.org/su21faq">course FAQ</a> before contacting staff with questions that might be answered there.</li>
+<li>The <a href="{{ site.baseurl }}/syllabus">Syllabus</a> contains a detailed explanation of how each course component will work this summer, given that the course is being taught entirely online.</li>
+<li>The scheduling of all weekly events is in the <a href="{{ site.baseurl }}/calendar">Calendar</a>.</li>
+<li>The Zoom links for all live events are in <a href="https://piazza.com/class/kpcl6edmxuk3fg?cid=6">@6 on Piazza</a>.</li>
+<li><strong>Note:</strong>The schedule of lectures and assignments is subject to change.</li>
+</ul> -->
+
+<br><br>
+
+{% for module in site.modules %}
+{{ module }}
+{% endfor %}

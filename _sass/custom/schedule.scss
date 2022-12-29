@@ -93,15 +93,27 @@
     }
 
     &.lecture {
-      background-color: $grey-dk-000;
+      background-color: $red-300;
     }
 
     &.section {
       background-color: $purple-000;
     }
 
-    &.office-hours {
+    &.oh-prof-zitnik {
       background-color: $blue-000;
+    }
+
+    &.oh-chen {
+      background-color: $green-200;
+    }
+
+    &.oh-huang {
+      background-color: $green-200;
+    }
+
+    &.oh-ektefaie {
+      background-color: $green-200;
     }
   }
 }

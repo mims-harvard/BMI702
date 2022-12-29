@@ -19,48 +19,34 @@ timeline:
   - '5:00 PM'
   - '5:30 PM'
 schedule:
+  - name: 
   - name: Monday
     events:
       - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+        start: 1:00 PM
+        end: 3:00 PM
+        location: TBD
+      - name: OH Prof Zitnik
+        start: 3:00 PM
+        end: 4:00 PM
+        location: Countway 309
   - name: Tuesday
+    events:
+      - name: OH Chen
+        start: 10:00 AM
+        end: 11:00 AM
+        location: TBD
   - name: Wednesday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
+      - name: OH Huang
         start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+        end: 1:30 PM
+        location: TBD
   - name: Thursday
   - name: Friday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
+      - name: OH Ektefaie
+        start: 1:00 PM
         end: 2:00 PM
-        location: 271 Soda
+        location: TBD
 ---

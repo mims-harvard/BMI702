@@ -1,12 +1,19 @@
 # BMI 702: Introduction to Biomedical AI
 
-Artificial intelligence is poised to enable breakthroughs in science and reshape medicine. This introductory course provides a survey of artificial intelligence for biomedical informatics, covering methods for key data modalities: clinical data, networks, language, and images. It introduces machine learning problems from a practical perspective, focusing on tasks that drive the adoption of machine learning in biology and medicine. It outlines foundational algorithms and emphasizes the subtleties of working with biomedical data and ways to evaluate and transition machine learning methods into biomedical and clinical implementation. An important consideration in this course is the broader impact of artificial intelligence, particularly topics of bias and fairness, interpretability, and ethical and legal considerations when dealing with artificial intelligence.
+This branch contains the source code for the course website.
 
 ### Local development environment
 
-No special Jekyll plugins are required. This site can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone this repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+Just the Class is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler.
 
-To generate a local build:
+1. Follow the GitHub documentation for [Setting up your GitHub Pages site locally with Jekyll](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll).
+1. Start your local Jekyll server.
+```bash
+$ bundle exec jekyll serve
+```
+1. Point your web browser to [http://localhost:4000](http://localhost:4000)
+1. Reload your web browser after making a change to preview its effect.
 
-    bundle install
-    bundle exec jekyll serve
+**Note:** In the event that you get an error that says something about "webrick", run `bundle add webrick`.
+
+For more information, refer to [Just the Docs](https://pmarsceill.github.io/just-the-docs/).
