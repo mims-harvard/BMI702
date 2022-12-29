@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Staff
-description: A listing of all the course staff members.
-nav_order: 7
+description: BMI 702 - Biomedical AI course staff
+nav_order: 11
 ---
 
 # Staff

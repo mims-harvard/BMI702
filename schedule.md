@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Schedule
-description: The weekly course schedule.
+nav_order: 13
+description: BMI 702 - Biomedical AI weekly course schedule
 ---
 
 # Weekly Schedule

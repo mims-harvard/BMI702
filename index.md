@@ -2,10 +2,11 @@
 layout: page
 title: Home
 nav_order: 1
-description: A week-to-week description of the content covered in the course.
+description: BMI 702 - Biomedical Artificial Intelligence
+
 ---
 
-# [BMI 702](https://dbmi.hms.harvard.edu/education/courses/bmi-702) | Introduction to Artificial Intelligence
+# [BMI 702](https://dbmi.hms.harvard.edu/education/courses/bmi-702) | Biomedical Artificial Intelligence
 
 {: .mb-2 }
 Harvard - Foundations in Biomedical Informatics II, Spring 2023
@@ -30,7 +31,7 @@ Harvard - Foundations in Biomedical Informatics II, Spring 2023
 
 </div>
 
-<ul>
+<!-- <ul> -->
 <!-- <li><b>THIS PAGE IS UNDER CONSTRUCTION. Please don’t interpret anything on this website as truth until this warning is removed. </b></li>
 <li>Please read our <a href="http://www.ds100.org/su21faq">course FAQ</a> before contacting staff with questions that might be answered there.</li>
 <li>The <a href="{{ site.baseurl }}/syllabus">Syllabus</a> contains a detailed explanation of how each course component will work this summer, given that the course is being taught entirely online.</li>
@@ -39,7 +40,7 @@ Harvard - Foundations in Biomedical Informatics II, Spring 2023
 <li><strong>Note:</strong>The schedule of lectures and assignments is subject to change.</li>
 </ul> -->
 
-<br><br>
+<br>
 
 {% for module in site.modules %}
 {{ module }}

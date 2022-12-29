@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Calendar
-description: Listing of course modules and topics.
+nav_order: 2.5
+description: BMI 702 - Biomedical AI course modules and topics
 ---
 
 # Calendar

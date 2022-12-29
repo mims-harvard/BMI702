@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: BMI 702
-tagline: Introduction to Artificial Intelligence
-description: Introduction to Artificial Intelligence
+tagline: Biomedical Artificial Intelligence
+description: Biomedical Artificial Intelligence
 author: Marinka Zitnik
 baseurl: '/BMI702' # the subpath of your site, e.g. /blog
 url: 'https://zitniklab.hms.harvard.edu' # the base hostname & protocol for your site, e.g. http://example.com
@@ -67,6 +67,11 @@ defaults:
       type: announcements
     values:
       layout: announcement
+
+# Google Analytics Tracking (optional)
+# Supports a CSV of tracking ID strings (eg. "UA-1234567-89,G-1AB234CDE5")
+ga_tracking: UA-162129505-1
+# ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 compress_html:
   clippings: all

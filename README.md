@@ -1,6 +1,6 @@
-# BMI 702: Introduction to Biomedical AI
+# BMI 702: Biomedical Artificial Intelligence
 
-This branch contains the source code for the course website.
+This repository contains the source code for the course website.
 
 ### Local development environment
 

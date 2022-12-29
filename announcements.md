@@ -2,7 +2,7 @@
 layout: page
 title: Announcements
 nav_exclude: true
-description: A feed containing all of the class announcements.
+description: BMI 702 - Biomedical AI class announcements
 ---
 
 # Announcements

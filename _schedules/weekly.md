@@ -25,11 +25,11 @@ schedule:
       - name: Lecture
         start: 1:00 PM
         end: 3:00 PM
-        location: TBD
+        location: Armenise Modell 100A, 200 Longwood Ave
       - name: OH Prof Zitnik
         start: 3:00 PM
         end: 4:00 PM
-        location: Countway 309
+        location: Countway 309, 10 Shattuck St
   - name: Tuesday
     events:
       - name: OH Chen
