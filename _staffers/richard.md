@@ -4,5 +4,5 @@ role: Staff
 email: richardchen@g.harvard.edu
 website: http://richarizardd.me
 photo: richard.png
-office-hours: TBD
+office-hours: Tue, 5pm - 6pm
 ---

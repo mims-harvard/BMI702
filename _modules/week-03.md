@@ -2,7 +2,7 @@
 title: Week 3
 ---
 
-Multi-institutional EHR systems, improving clinical workflows
+Multi-institutional EHR systems, transfer learning, federated learning, clinical workflows
 
 Feb 6
 : **Module 1**{: .label .label-blue }**Lecture**{: .label .label-purple }[Clinical AI Part II](/BMI702/lectures/module1/week03)

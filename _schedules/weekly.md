@@ -18,6 +18,8 @@ timeline:
   - '4:30 PM'
   - '5:00 PM'
   - '5:30 PM'
+  - '6:00 PM'
+  - '6:30 PM'
 schedule:
   - name: 
   - name: Monday
@@ -33,20 +35,20 @@ schedule:
   - name: Tuesday
     events:
       - name: OH Chen
-        start: 10:00 AM
-        end: 11:00 AM
-        location: TBD
+        start: 5:00 PM
+        end: 6:00 PM
+        location: Countway 423/424 Open area
   - name: Wednesday
+  - name: Thursday
     events:
       - name: OH Huang
-        start: 12:30 PM
-        end: 1:30 PM
-        location: TBD
-  - name: Thursday
+        start: 3:00 PM
+        end: 4:00 PM
+        location: Countway 423/424 Open area
   - name: Friday
     events:
       - name: OH Ektefaie
-        start: 1:00 PM
-        end: 2:00 PM
-        location: TBD
+        start: 10:00 AM
+        end: 11:00 AM
+        location: Countway 423/424 Open area
 ---

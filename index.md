@@ -9,7 +9,7 @@ description: BMI 702 - Biomedical Artificial Intelligence
 # [BMI 702](https://dbmi.hms.harvard.edu/education/courses/bmi-702) | Biomedical Artificial Intelligence
 
 {: .mb-2 }
-Harvard - Foundations in Biomedical Informatics II, Spring 2023
+Harvard - Foundations of Biomedical Informatics II, Spring 2023
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 <div>
