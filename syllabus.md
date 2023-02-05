@@ -40,7 +40,7 @@ The overall structure is as follows. The course comprises 14 weeks. We provide a
 ## Assigments and Grading
 
 * There are three problem sets in the course. Assignments are released on Wednesday at 9:00am EST and are due at 11:59pm EST on Wednesday (14 days after they are released). Submissions must be made through Canvas. 
-* Pre-class quizzes open at 9:00am EST on Tuesday and are due at 11:59pm EST on Sunday (pre-class quizzes must close before lectures on Monday).
+* Pre-class quizzes open at 9:00am EST on Tuesday and are due at 11:59pm EST on Sunday (pre-class quizzes close before lectures on Monday).
 
 *Delayed beyond 24 hours of deadline: no credit. In the case of illness/absence, please contact the course instructor. We will work with you to make up any missed assignments.* 
 
@@ -56,19 +56,23 @@ Questions/issues: please contact the course instructor.
 | Problem Set 1                      | 20      |
 | Problem Set 2                     | 20                            |
 | Problem Set 3                      | 20               |
-| Class Participation                      | 14 (1 point for Lecture 1-14)                           |
+| Class Participation (Quick Checks)                      | 14 (1 point for Lecture 1-14)                           |
 | Pre-Class Quizzes                      | 26 (2 points per quiz; there is no quiz for Lecture 1)                              |
-
-### Quick Checks
-{:.no_toc}
-
-Quick Checks are short conceptual questions embedded into each lecture, in the form of Google Forms. **Quick Checks count towards class participation grade.** They are meant for you to check your understanding of the concepts that were just introduced. That is, your score on them does not matter, you just need to do them. 
 
 ### Problem Sets
 {:.no_toc}
 
 Problem sets are two-week-long assignments that are designed to help students develop an in-depth understanding of both the theoretical and practical aspects of ideas presented in lecture. The primary form of support students will have for problem sets are the **office hours** we’ll host, and **Canvas Discussions**. Problems sets must be completed individually.
 
+### Pre-Class Quizzes
+{:.no_toc} 
+
+Pre-class quizzes are weekly assignments that are graded. That is, your score on them does matter and you must complete them individually. 
+
+### Class Participation (Quick Checks)
+{:.no_toc}
+
+Quick checks are short conceptual questions embedded into each lecture, in the form of Google Forms. **Quick checks count towards class participation grade.** They are meant for you to check your understanding of the concepts that were just introduced. That is, your score on them does not matter, you just need to do them.
 
 ## Course Culture
 
