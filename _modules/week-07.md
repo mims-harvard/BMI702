@@ -2,7 +2,7 @@
 title: Week 7
 ---
 
-Biomedical knowledge graphs, multimodal learning, graph neural networks
+Machine learning with heterogeneous graphs, multimodal learning, graph neural networks, knowledge graph embeddings, reasoning over knowledge graphs
 
 Mar 20
 : **Module 3**{: .label .label-blue }**Lecture**{: .label .label-purple }[Biomedical graph learning Part II](/BMI702/lectures/module3/week07)

@@ -2,7 +2,7 @@
 title: Week 6
 ---
 
-Foundations of biomedical graph learning, graph representation learning, semi-supervised learning, network medicine, disease modules and endotypes
+Foundations of geometric deep learning, graph representation learning, link prediction, node classification, graph clustering, graph classification, semi-supervised learning, label propagation, network medicine, disease modules and endotypes
 
 Mar 6
 : **Module 3**{: .label .label-blue }**Lecture**{: .label .label-purple }[Biomedical graph learning Part I](/BMI702/lectures/module3/week06)
