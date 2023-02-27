@@ -2,7 +2,7 @@
 title: Week 11
 ---
 
-Self-supervised learning, analysis of radiology images
+Multimodal learning, analysis of histopathology slides
 
 Apr 17
 : **Module 5**{: .label .label-blue }**Lecture**{: .label .label-purple }[Biomedical imaging Part II](/BMI702/lectures/module5/week11)

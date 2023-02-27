@@ -6,7 +6,7 @@ Bias and fairness in biomedical AI
 
 Feb 27
 : **Module 2**{: .label .label-blue }**Lecture**{: .label .label-purple }[Trustworthy AI Part II](/BMI702/lectures/module2/week05)
-  : [Slides](#), [Reading List](/BMI702/lectures/module2/week05)
+  : [Slides](/BMI702/assets/zitnik-BMI702-L5.pdf), [Reading List](/BMI702/lectures/module2/week05)
 
 Feb 28
 : **Quiz**{: .label .label-green }[Week 6 pre-class quiz](#) (due Mar 5)

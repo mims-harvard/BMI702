@@ -2,7 +2,7 @@
 title: Week 10
 ---
 
-Foundations of biomedical imaging, analysis of histopathology slides
+Foundations of biomedical imaging, self-supervised learning, analysis of radiology images
 
 Apr 10
 : **Module 5**{: .label .label-blue }**Lecture**{: .label .label-purple }[Biomedical imaging Part I](/BMI702/lectures/module5/week10)
