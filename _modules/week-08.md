@@ -6,7 +6,7 @@ Foundations of natural language processing and understanding
 
 Mar 27
 : **Module 4**{: .label .label-blue }**Lecture**{: .label .label-purple }[Medical language modeling Part I](/BMI702/lectures/module4/week08)
-  : [Slides](#), [Reading List](/BMI702/lectures/module4/week08)
+  : [Slides](/BMI702/assets/Li-BMI702-L8.pdf), [Reading List](/BMI702/lectures/module4/week08)
 
 Mar 28
 : **Quiz**{: .label .label-green }[Week 9 pre-class quiz](#) (due Apr 2)
