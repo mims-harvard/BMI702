@@ -6,7 +6,7 @@ Foundations of biomedical imaging, self-supervised learning, analysis of radiolo
 
 Apr 10
 : **Module 5**{: .label .label-blue }**Lecture**{: .label .label-purple }[Biomedical imaging Part I](/BMI702/lectures/module5/week10)
-  : [Slides](#), [Reading List](/BMI702/lectures/module5/week10)
+  : [Slides](/BMI702/assets/rajpurkar-BMI702-L10.pdf), [Reading List](/BMI702/lectures/module5/week10)
 
 Apr 11
 : **Quiz**{: .label .label-green }[Week 11 pre-class quiz](#) (due Apr 16)
