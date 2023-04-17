@@ -2,7 +2,7 @@
 title: Week 12
 ---
 
-Overview of drug discovery, AI-guided drug design, small-molecule generation, molecule optimization, high-throughput perturbations, sequence and structure based protein design
+Overview of drug discovery and development, AI-guided drug design, small-molecule generation, molecule optimization, identification and characterization of therapeutic targets, high-throughput chemical and genetic perturbations
 
 Apr 24
 : **Module 6**{: .label .label-blue }**Lecture**{: .label .label-purple }[Therapeutic science and drug discovery Part I](/BMI702/lectures/module6/week12)
