@@ -2,7 +2,7 @@
 title: Week 13
 ---
 
-Biomarker discovery, drug repurposing, adverse event prediction
+Label-efficient learning, few-shot learning, biomarker discovery, indication inference, drug repurposing, adverse event prediction
 
 May 1
 : **Module 6**{: .label .label-blue }**Lecture**{: .label .label-purple }[Therapeutic science and drug discovery Part II](/BMI702/lectures/module6/week13)
