@@ -6,7 +6,7 @@ Overview of drug discovery and development, AI-guided drug design, small-molecul
 
 Apr 24
 : **Module 6**{: .label .label-blue }**Lecture**{: .label .label-purple }[Therapeutic science and drug discovery Part I](/BMI702/lectures/module6/week12)
-  : [Slides](#), [Reading List](/BMI702/lectures/module6/week12)
+  : [Slides](/BMI702/assets/zitnik-BMI702-L12.pdf), [Reading List](/BMI702/lectures/module6/week12)
 
 Apr 25
 : **Quiz**{: .label .label-green }[Week 13 pre-class quiz](#) (due Apr 30)
