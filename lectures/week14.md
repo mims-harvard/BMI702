@@ -9,10 +9,8 @@ description: BMI 702 - Foundations in Biomedical Informatics II - Biomedical Art
 
 ## Required Reading (Week 14 Pre-Class Quiz)
 
-* [Ethical and legal aspects of ambient intelligence in hospitals](https://jamanetwork.com/journals/jama/fullarticle/2759956) 
-* [Machine learning and health care disparities in dermatology](https://jamanetwork.com/journals/jamadermatology/article-abstract/2688587) 
-* [The need for a system view to regulate artificial intelligence/machine learning-based software as medical device](https://www.nature.com/articles/s41746-020-0262-2)
 * [Privacy in the age of medical big data](https://www.nature.com/articles/s41591-018-0272-7)
+* [Ethical and legal aspects of ambient intelligence in hospitals](https://jamanetwork.com/journals/jama/fullarticle/2759956) 
 * [Shadow health records meet new data privacy laws](https://science.sciencemag.org/content/363/6426/448)
 * [Potential liability for physicians using artificial intelligence](https://jamanetwork.com/journals/jama/fullarticle/2752750)
 
@@ -22,6 +20,8 @@ description: BMI 702 - Foundations in Biomedical Informatics II - Biomedical Art
 
 ## Optional Reading
 
+* [Machine learning and health care disparities in dermatology](https://jamanetwork.com/journals/jamadermatology/article-abstract/2688587)
+* [The need for a system view to regulate artificial intelligence/machine learning-based software as medical device](https://www.nature.com/articles/s41746-020-0262-2)
 * [Ethical and Legal Challenges of Artificial Intelligence-Driven Healthcare](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7332220/pdf/main.pdf)
 * [What Happens When an Algorithm Cuts Your Health Care](https://www.theverge.com/2018/3/21/17144260/healthcare-medicaid-algorithm-arkansas-cerebral-palsy) 
 * [Informed Consent and Medical Artificial Intelligence: What to Tell the Patient?](https://www.law.georgetown.edu/georgetown-law-journal/wp-content/uploads/sites/26/2020/06/Cohen_Informed-Consent-and-Medical-Artificial-Intelligence-What-to-Tell-the-Patient.pdf) 
