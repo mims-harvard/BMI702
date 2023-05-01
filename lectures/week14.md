@@ -14,6 +14,11 @@ description: BMI 702 - Foundations in Biomedical Informatics II - Biomedical Art
 * [Algorithms on regulatory lockdown in medicine](https://science.sciencemag.org/content/366/6470/1202.abstract)
 * [Potential liability for physicians using artificial intelligence](https://jamanetwork.com/journals/jama/fullarticle/2752750)
 
+## Patient Cases for In-Class Discussion
+
+* [The Patient with Diabetes - Part 1](/BMI702/assets/L14-The-Patient-with-Diabetes-Part-1.pdf)
+* [The Patient with Diabetes - Part 2](/BMI702/assets/L14-The-Patient-with-Diabetes-Part-2.pdf)
+
 ## What-Why-How Paper Highlight
 
 <iframe src="https://harvard.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=d2929d70-ce19-46a8-91df-ae7a0106a091&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
