@@ -23,32 +23,27 @@ timeline:
 schedule:
   - name: 
   - name: Monday
-    events:
-      - name: Lecture
-        start: 1:00 PM
-        end: 3:00 PM
-        location: Armenise Modell 100A, 200 Longwood Ave
-      - name: OH Prof Zitnik
-        start: 3:00 PM
-        end: 4:00 PM
-        location: Countway 309, 10 Shattuck St
   - name: Tuesday
     events:
-      - name: OH Chen
-        start: 5:00 PM
-        end: 6:00 PM
-        location: Countway 423/424 Open area
+    - name: OH Ullanat
+      start: 3:00 PM
+      end: 4:00 PM
+      location: Countway 423/424
   - name: Wednesday
   - name: Thursday
     events:
-      - name: OH Huang
-        start: 3:00 PM
+      - name: Lecture
+        start: 2:00 PM
         end: 4:00 PM
-        location: Countway 423/424 Open area
+        location: Countway 403
+      - name: OH Prof Zitnik
+        start: 4:00 PM
+        end: 5:00 PM
+        location: Countway 309
   - name: Friday
     events:
       - name: OH Ektefaie
-        start: 10:00 AM
-        end: 11:00 AM
-        location: Countway 423/424 Open area
+        start: 11:00 AM
+        end: 12:00 PM
+        location: Countway 423/424
 ---

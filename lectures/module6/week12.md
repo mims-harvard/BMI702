@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Therapeutic Science Part I
+title: Generative AI Part I
 nav_order: 1
-parent: M6 - Therapeutic Science
+parent: M6 - Generative AI
 description: BMI 702 - Foundations in Biomedical Informatics II - Biomedical Artificial Intelligence
 ---
 
-# Week 12 - Therapeutic Science Part I
+# Week 12 - Generative AI Part I
 
 ## Required Reading (Week 12 Pre-Class Quiz)
 

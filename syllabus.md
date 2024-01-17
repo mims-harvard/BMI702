@@ -21,7 +21,7 @@ Artificial intelligence is poised to enable breakthroughs in science and reshape
 ### Goals
 {:.no_toc}
 
-- Prepare students for advanced courses in data science, machine learning, and statistics, by providing the necessary foundation and context
+- Prepare students for advanced courses in data science, machine learning, and statistics by providing the necessary foundation and context
 - Empower students to apply computational and inferential thinking to address real-world problems
 - Understand artificial intelligence methods from a practical perspective
 - Understand best practices in implementing, evaluating, and validating ML methods on biomedical data
@@ -34,15 +34,15 @@ Artificial intelligence is poised to enable breakthroughs in science and reshape
 ### Syllabus
 {:.no_toc}
 
-The overall structure is as follows. The course comprises 14 weeks. We provide a course overview and introduction to biomedical AI in the first week. The remaining 12 weeks are divided into six modules. The first week in each module is foundational and introduces key machine learning concepts in the area, and the following week covers advanced topics and frontiers of the same area. The final week of the course is introduces student to ethical and legal considerations for biomedical AI.
+The overall structure is as follows. The course comprises 14 weeks. We provide a course overview and introduction to biomedical AI in the first week. The remaining 12 weeks are divided into six modules. The first week in each module is foundational and introduces key machine learning concepts in the area, and the following week covers advanced topics and frontiers of the same area. The final week of the course introduces students to ethical and legal considerations for biomedical AI.
 
 
 ## Assigments and Grading
 
-* There are three problem sets in the course. Assignments are released on Wednesday at 9:00am EST and are due at 11:59pm EST on Wednesday (14 days after they are released). Submissions must be made through Canvas. 
-* Pre-class quizzes open at 9:00am EST on Tuesday and are due at 11:59pm EST on Sunday (pre-class quizzes close before lectures on Monday).
+* There are three problem sets in the course. Assignments are released on Fridays at 9:00am EST and are due at 11:59pm EST on Friday (14 days after they are released). Submissions must be made through Canvas. 
+* Pre-class quizzes open at 9:00am EST on Friday and are due at 2:00pm EST on Thursday (pre-class quizzes close before lectures on Thursday). Quizzes must be completed in Canvas. 
 
-*Delayed beyond 24 hours of deadline: no credit. In the case of illness/absence, please contact the course instructor. We will work with you to make up any missed assignments.* 
+*Delayed beyond 24 hours of deadline: no credit. In the case of illness/absence, contact the course instructor. We will work with you to make up any missed assignments.* 
 
 Delayed beyond 24 hours of deadline: no credit 
 
@@ -127,23 +127,15 @@ Regrade requests will **not** be considered in cases in which:
 
 ## Policies
 
+### We Want You to Succeed!
+{:.no_toc}
+
+You are more than welcome to visit our office hours and talk with us. We know graduate school can be stressful and we want to help you succeed.
+
 ### Late Policy
 {:.no_toc}
 
-All assignments are due at 11:59 pm on the due date specified on the syllabus. 
-
 Extensions are only provided in the case of exceptional circumstances. For that, email the course instructor to request an extension. If you make a request close to the deadline, we can not guarantee that you will receive a response before the deadline. Additionally, simply submitting a request does not guarantee you will receive an extension. Even if your work is incomplete, please submit before the deadline so you can receive credit for the work you did complete.
-
-### Collaboration Policy and Academic Dishonesty
-{:.no_toc}
-
-We will be following the [Harvard Medical School policy on Academic Honesty](https://medstudenthandbook.hms.harvard.edu/4-student-conduct-and-responsibility), which states that using work or resources that are not your own or not permitted by the course may lead to disciplinary actions, up to and including a failing grade in the course. It is the student’s responsibility to be aware of these policies and ensure that their work adheres to them in detail and in spirit. Unless otherwise specified by the instructor, the assumption is that all work submitted must reflect the student’s own effort and understanding. Students are expected to clearly distinguish their own ideas and knowledge from information derived from other sources, including from collaboration with other people. Specifically, this means that:
-
-- Students must properly cite all submitted work appropriately.
-- Unless noted otherwise, students are expected to complete assignments, quizzes, and projects individually, not as teams. Discussion about course content and materials is acceptable, but sharing solutions is not acceptable.
-- Even though students are encouraged to consult websites for solutions to coding problems, they may never just copy code.
-
-If you have a question about how best to complete an assignment in light of these policies, ask the instructor for clarification.
 
 ### Assignments
 {:.no_toc}
@@ -152,23 +144,62 @@ Data science is a collaborative activity. While you may talk with others about t
 
 Rather than copying someone else's work, ask for help. You are not alone in this course! The entire staff is here to help you succeed. If you invest the time to learn the material and complete the assignments, you won't need to copy any answers. 
 
-### We want you to succeed!
+### Using Large Language Models (LLMs) and Generative AI
 {:.no_toc}
 
-If you are feeling overwhelmed, visit our office hours and talk with us. We know graduate school can be stressful and we want to help you succeed.
+The following policy outlines the guidelines for the use of generative AI and LLMs in student assignments.
 
-## Academic and Other Support Services
+* Responsibility for content: Students who use LLMs and generative AI tools in their assignments must take full responsibility for the content they submit. This includes ensuring the accuracy, relevance, and originality of the information provided by these tools.
 
-We value your well-being and recognize that as a graduate or professional student, you are asked to balance various responsibilities and potential stressors. If you are struggling with experiences either in or outside of class, there are resources available to help. HMS students should contact their home program administrator or the Office of Graduate Education to access academic or personal support services.
+* Acknowledgment of AI use: Students must clearly acknowledge any use of LLMs or generative AI in their assignments. This acknowledgment should specify the nature and extent of the assistance received from these tools. LLMs and generative AI can be used to enhance the educational experience, and help with ideation and understanding of complex concepts. However, students must perform the critical thinking, analysis, and synthesis of information.
 
-All students have access to Counseling and Mental Health Services (CAMHS) available in Longwood, Cambridge, or remotely via webcam or phone. The use of CAMHS is included in the student health fee, regardless of insurance, at no additional cost. More information is available at [https://camhs.huhs.harvard.edu](https://camhs.huhs.harvard.edu) or by calling the main office at 617-495-2042. Urgent care can be reached 24/7 at 617-495-5711.
+* Ethical use and originality: Students must use these tools ethically, following the principles of academic honesty. The use of AI to plagiarize, misrepresent original work, or fabricate data is strictly prohibited. Students are encouraged to use these tools to inspire and inform their work, not to undermine the learning process.
+
+* Instructor discretion: Instructors may specify assignments where LLMs and generative AI use is particularly encouraged or prohibited, depending on the assignment's learning objectives.
+
+This policy helps students get ready for a future with AI in jobs and makes sure their education focuses on honesty and learning. [Students are encouraged to read this NEJM AI editorial on why we support the use of LLMs and generative AI in BMI 702.](https://ai.nejm.org/doi/full/10.1056/AIe2300128) 
+
+### Collaboration Policy and Academic Dishonesty
+{:.no_toc}
+
+All work in this course is governed by [Harvard Medical School’s academic integrity policies](https://issuu.com/hmsgraduateeducation/docs/handbook_updates_all_22-23_gc?fr=sYjRlNzYxOTI5MDQ). It is the students’ responsibility to be aware of these policies and to ensure that their work adheres to them both in detail and in spirit. Unless otherwise specified by the instructor, the assumption is that all work submitted must reflect the student’s own effort and understanding. Students are expected to clearly distinguish their own ideas and knowledge from information derived from other sources, including from conversations with other people. When working with others you must do so in the spirit of collaboration, not via a unidirectional transfer of information. Note that sharing or sending completed assignments to others will nearly always violate this collaborative standard. If you have a question about how best to complete an assignment in light of these policies, ask the instructor for clarification. 
+
+Students are expected to clearly distinguish their own ideas and knowledge from information derived from other sources, including from collaboration with other people. Specifically, this means that:
+
+- Students must properly cite all submitted work appropriately.
+- Unless noted otherwise, students are expected to complete assignments, quizzes, and projects individually, not as teams. Discussion about course content and materials is acceptable, but sharing solutions is not acceptable.
+- Even though students are encouraged to consult websites for solutions to coding problems, they may never just copy code.
+
+If you have a question about how best to complete an assignment in light of these policies, ask the instructor for clarification.
+
+### Community Standards
+{:.no_toc}
+
+Harvard Medical School is committed to supporting inclusive learning environments that value and affirm the diverse ideas and unique life experiences of all people. An equitable, inclusive classroom is a shared responsibility of both instructors and students, and both are encouraged to consider how their own experiences and biases may influence the learning environment. This requires an open mind and respect for differences of all kinds. 
+
+Students are encouraged to contact the course director if they are experiencing bias or feel that their learning experience – including a course’s content, manner of instruction, or learning environment – is not inclusive. Program administrators and directors, the Office for Gender Equity, and the [Ombuds Office](https://hms.harvard.edu/departments/ombuds-office) are also available to discuss your experiences and provide support. Additionally, students can utilize [Harvard’s Anonymous Reporting Hotline](https://reportinghotline.harvard.edu/) to report issues related to bias. 
+
+### Academic and Other Support Services
+{:.no_toc}
+
+We value your well-being and recognize that as a graduate student you are asked to balance a variety of responsibilities and potential stressors: in class, in lab, and in life. If you are struggling with experiences either in- or outside of class, there are resources available to help. In addition to program leadership, master’s students can contact Kimberly_Lincoln@hms.harvard.edu, HMS Director of Administration and Student Affairs for Master’s Programs and Johanna_Gutlerner@hms.harvard.edu, Senior Associate Dean for Graduate Education, for support.
+
+### Wellbeing and Mental Health Services
+{:.no_toc}
+
+Counseling and Mental Health Services (CAMHS) is a counseling and mental health support service that seeks to work collaboratively with students and the University to support individuals experiencing some measure of distress in their lives. It provides coverage to students year-round and is included in the student health fee, regardless of insurance, at no additional cost. More information is available on the [CAMHS website](https://camhs.huhs.harvard.edu/) or by calling the main office at 617-495-2042. Urgent care can be reached 24/7 at 617-495-5711.
+
+[CAMHS Care Line:](https://camhs.huhs.harvard.edu/camhs-cares) The CAMHS Cares line 617-495-2042 is a 24/7 support line available to Harvard students who have mental health concerns, whether you are in immediate distress or not, on-campus or elsewhere. This the Line can also be used as resource for Harvard personnel who needs advice about a student who may be experiencing a mental health crisis. At all times, including evenings, weekends, and holidays, you can follow the prompts to speak directly with a CAMHS Cares Counselor about an urgent concern or if you just need to talk to someone about a difficult challenge.
+
+[TimelyCare](https://camhs.huhs.harvard.edu/timelycare), a virtual mental health and wellbeing platform for all Harvard students covered by the Student Health Fee, offers free virtual mental health care including scheduled counseling, psychiatry, and self-care content to support wellbeing and mental health any time. Scheduled therapy appointments are readily available.
 
 ### Reasonable Accommodations
 {:.no_toc}
 
-As an institution that values diversity and inclusion, our goal is to create learning environments that are usable, equitable, inclusive, and welcoming. Harvard University complies with federal legislation for individuals with disabilities and offers reasonable accommodations to qualified students with documented disabilities and temporary impairments. To make a request for reasonable accommodations in a course, students must first connect with their local disability office. The primary point of contact for HMS-based master’s and medical students is the HMS Director of Disability Services.
- 
-Accommodations are determined through an interactive process and are not retroactive. Therefore, students should contact their local disability office as soon as possible, preferably at least two weeks before accommodations are needed in a course. Students are strongly encouraged to discuss their access needs with their instructors; however, instructors cannot independently institute individual accommodations without prior approval from the disability office. Student privacy surrounding disability status is recognized under FERPA. Information about accommodations is shared on a need-to-know basis with only those involved in instituting the accommodation.  
+As an institution that values diversity and inclusion, our goal is to create learning environments that are usable, equitable, inclusive and welcoming. Harvard University complies with federal legislation for individuals with disabilities and offers reasonable accommodations to qualified students with documented disabilities and temporary impairments. To make a request for reasonable accommodations in a course, students must first connect with their local disability office. The HMS Director of Disability Services, Timothy Rogers (timothy_rogers@hms.harvard.edu), is the point of contact for accommodation information for HMS master’s and MD students.
+
+Accommodations are determined through an interactive process and are not retroactive. Therefore, students should contact their local disability office as soon as possible, preferably at least two weeks before accommodations are needed in a course, or immediately following an injury or illness, in order to initiate the accommodation process. Students are strongly encouraged to discuss their access needs with their instructors; however, instructors cannot independently institute individual accommodations without prior approval from the disability office. Student privacy surrounding disability status is recognized under FERPA. Information about accommodations is shared on a need-to-know basis, and with only those individuals involved in instituting the accommodation.  
+
 
 
 

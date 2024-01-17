@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Trustworthy AI Part I
-parent: M2 - Trustworthy AI
+title: Trustworthy & Efficient AI Part I
+parent: M2 - Trustworthy & Efficient AI
 nav_order: 1
 description: BMI 702 - Foundations in Biomedical Informatics II - Biomedical Artificial Intelligence
 ---
 
-# Week 4 - Trustworthy AI Part I
+# Week 4 - Trustworthy & Efficient AI Part I
 
 ## Required Reading (Week 4 Pre-Class Quiz)
 
