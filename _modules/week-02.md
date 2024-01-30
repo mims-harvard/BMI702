@@ -2,7 +2,7 @@
 title: Week 2
 ---
 
-Clinical research using EHR data, subtype discovery, disease diagnosis and prognosis prediction
+Machine learning using electronic health records, subtype discovery, disease diagnosis and prognosis prediction
 
 Feb 1
 : **Module 1**{: .label .label-blue }**Lecture**{: .label .label-purple }[Clinical AI Part I](/BMI702/lectures/module1/week02)

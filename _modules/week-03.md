@@ -2,7 +2,7 @@
 title: Week 3
 ---
 
-Multi-institutional EHR, transfer learning, federated learning
+Machine learning on clinico-genetic datasets, diagnostic odyssey and therapy selection
 
 Feb 8
 : **Module 1**{: .label .label-blue }**Lecture**{: .label .label-purple }[Clinical AI Part II](/BMI702/lectures/module1/week03)
