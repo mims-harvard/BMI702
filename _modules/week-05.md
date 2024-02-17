@@ -2,7 +2,7 @@
 title: Week 5
 ---
 
-Few-shot learning, scaling laws, generalization and robustness
+Fairness, bias, distribution shifts, and robustness
 
 Feb 22
 : **Module 2**{: .label .label-blue }**Lecture**{: .label .label-purple }[Trustworthy & Efficient AI Part II](/BMI702/lectures/module2/week05)
