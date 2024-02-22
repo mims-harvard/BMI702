@@ -8,7 +8,7 @@ description: BMI 702 - Foundations in Biomedical Informatics II - Biomedical Art
 
 # Week 6 - Biomedical Graph Learning Part I
 
-## Required Reding (Week 6 Pre-Class Quiz)
+## Required Reading (Week 6 Pre-Class Quiz)
 
 * [Network medicine: a network-based approach to human disease](https://www.nature.com/articles/nrg2918)
 * [node2vec: Scalable feature learning for networks](https://dl.acm.org/doi/10.1145/2939672.2939754)
