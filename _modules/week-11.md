@@ -2,7 +2,7 @@
 title: Week 11
 ---
 
-Multimodal learning, analysis of histopathology slides, quantitative pathology in cancer diagnosis and prognosis
+Multimodal learning, computational pathology with applications to oncology, analysis of histopathology slides
 
 Apr 11
 : **Module 5**{: .label .label-blue }**Lecture**{: .label .label-purple }[Biomedical imaging Part II](/BMI702/lectures/module5/week11)
