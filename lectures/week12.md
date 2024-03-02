@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Week 14 - Ethical & Legal
-nav_order: 10
+title: Week 12 - Ethical & Legal
+nav_order: 9
 description: BMI 702 - Foundations in Biomedical Informatics II - Biomedical Artificial Intelligence
 ---
 
-# Week 14 - Ethical & Legal Considerations for Biomedical AI
+# Week 12 - Ethical & Legal Considerations for Biomedical AI
 
-## Required Reading (Week 14 Pre-Class Quiz)
+## Required Reading (Week 12 Pre-Class Quiz)
 
 * [Privacy in the age of medical big data](https://www.nature.com/articles/s41591-018-0272-7)
 * [Ethical and legal aspects of ambient intelligence in hospitals](https://jamanetwork.com/journals/jama/fullarticle/2759956) 

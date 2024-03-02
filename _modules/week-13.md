@@ -2,10 +2,10 @@
 title: Week 13
 ---
 
-Protein design and digital twins 
+AI-guided drug design, small-molecule generation, molecule optimization, identification and characterization of therapeutic targets, design of chemical and genetic perturbations
 
 Apr 25
-: **Module 6**{: .label .label-blue }**Lecture**{: .label .label-purple }[Generative AI Part II](/BMI702/lectures/module6/week13)
+: **Module 6**{: .label .label-blue }**Lecture**{: .label .label-purple }[Generative AI Part I](/BMI702/lectures/module6/week13)
   : [Slides](#), [Reading List](/BMI702/lectures/module6/week13)
 
 Apr 26

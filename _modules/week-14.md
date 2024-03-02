@@ -2,9 +2,9 @@
 title: Week 14
 ---
 
-Introduction to ethical frameworks, data privacy, regulation and liability aspects of AI
+Protein generation and optimization, other emerging uses of generative AI
 
 May 2
-: **Lecture**{: .label .label-purple }[Ethical and legal considerations for biomedical AI ](/BMI702/lectures/week14)
-  : [Slides](#), [Reading List](/BMI702/lectures/week14)
+: **Module 6**{: .label .label-blue }**Lecture**{: .label .label-purple }[Generative AI Part II](/BMI702/lectures/module6/week14)
+  : [Slides](#), [Reading List](/BMI702/lectures/module6/week14)
 
