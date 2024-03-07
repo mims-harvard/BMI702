@@ -6,7 +6,7 @@ Machine learning with heterogeneous graphs, graph neural networks, knowledge gra
 
 Mar 7
 : **Module 3**{: .label .label-blue }**Lecture**{: .label .label-purple }[Biomedical graph learning Part II](/BMI702/lectures/module3/week07)
-  : [Slides](#), [Reading List](/BMI702/lectures/module3/week07)
+  : [Slides](/BMI702/assets/zitnik-BMI702-L7.pdf), [Reading List](/BMI702/lectures/module3/week07)
 
 Mar 8
 : **Quiz**{: .label .label-green }[Week 8 pre-class quiz](#) (due Mar 21)
