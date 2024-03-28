@@ -2,7 +2,7 @@
 title: Week 9
 ---
 
-Clinical trial site identification, patient trial matching, clinical trial recruitment
+Natural language processing across clinical domains and tasks
 
 Mar 28
 : **Module 4**{: .label .label-blue }**Lecture**{: .label .label-purple }[Medical language modeling Part II](/BMI702/lectures/module4/week09)
