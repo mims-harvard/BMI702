@@ -16,8 +16,8 @@ description: BMI 702 - Foundations in Biomedical Informatics II - Biomedical Art
 
 ## Patient Cases for In-Class Discussion
 
-* [The Patient with Diabetes - Part 1](/BMI702/assets/L14-The-Patient-with-Diabetes-Part-1.pdf)
-* [The Patient with Diabetes - Part 2](/BMI702/assets/L14-The-Patient-with-Diabetes-Part-2.pdf)
+* [The Patient with Diabetes - Part 1](/BMI702/assets/L12-The-Patient-with-Diabetes-Part-1.pdf)
+* [The Patient with Diabetes - Part 2](/BMI702/assets/L12-The-Patient-with-Diabetes-Part-2.pdf)
 
 ## What-Why-How Paper Highlight
 
