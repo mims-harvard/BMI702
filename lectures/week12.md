@@ -25,6 +25,8 @@ description: BMI 702 - Foundations in Biomedical Informatics II - Biomedical Art
 
 ## Optional Reading
 
+* [Generative AI in health care and liability risks for physicians and safety concerns for patients](https://jamanetwork.com/journals/jama/article-abstract/2807168)
+* [Health Care AI and Patient Privacy—Dinerstein v Google](https://jamanetwork.com/journals/jama/article-abstract/2815451)
 * [Shadow health records meet new data privacy laws](https://science.sciencemag.org/content/363/6426/448)
 * [Machine learning and health care disparities in dermatology](https://jamanetwork.com/journals/jamadermatology/article-abstract/2688587)
 * [The need for a system view to regulate artificial intelligence/machine learning-based software as medical device](https://www.nature.com/articles/s41746-020-0262-2)
