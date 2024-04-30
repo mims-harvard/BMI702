@@ -2,7 +2,7 @@
 title: Week 13
 ---
 
-AI-guided drug design, small-molecule generation, molecule optimization, drug target identification, design of chemical and genetic perturbations
+AI-guided drug design, small-molecule generation, molecule optimization, drug target identification
 
 Apr 25
 : **Module 6**{: .label .label-blue }**Lecture**{: .label .label-purple }[Generative AI Part I](/BMI702/lectures/module6/week13)
