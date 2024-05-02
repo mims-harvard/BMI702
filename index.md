@@ -14,10 +14,10 @@ Harvard - Foundations of Biomedical Informatics II, Spring 2024
 
 <div>
 	<p>
-		Artificial intelligence is poised to enable breakthroughs in science and reshape medicine. This course provides a survey of artificial intelligence for biomedical informatics, covering methods for key data modalities: clinical data, networks, language, and images. It introduces machine learning problems from a practical perspective, focusing on tasks that drive the adoption of machine learning in biology and medicine. 
+		Artificial intelligence is poised to reshape medicine. This course provides a survey of artificial intelligence for biomedical informatics, covering methods for key data modalities: clinical data, networks, language, and images. It introduces machine learning problems from a practical perspective, focusing on tasks that drive the adoption of machine learning in biology and medicine. 
 	</p>
 	<p>
-		The curriculum delves into foundational algorithms and highlights the nuances of handling biomedical data. It places a strong emphasis on strategies for evaluating and seamlessly integrating machine learning methods into biomedical research and clinical practice. A key aspect of this course is its focus on the broader implications of artificial intelligence. This includes critical discussions on topics such as trustworthiness, interpretability, evaluation, and the ethical and legal challenges associated with the implementation of artificial intelligence in healthcare.
+		The course covers foundational algorithms and highlights the nuances of handling biomedical data. It places a strong emphasis on strategies for evaluating and seamlessly integrating machine learning methods into biomedical research and clinical practice. This includes critical discussions on topics such as trustworthiness, interpretability, evaluation, and the ethical and legal challenges associated with biomedical artificial intelligence.
 	</p>
 </div>
 
